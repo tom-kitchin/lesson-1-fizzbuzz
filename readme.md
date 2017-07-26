@@ -2,19 +2,16 @@
 
 A simple coding task with provided tests to fulfil.
 
-Each test has been disabled with an early return, which looks like:
-```
-return; // DELETE ME TO RUN TEST
-```
+Each test has been commented out to disable it at first.
 
 Aim to fulfil the tests in order according to Test Driven Development practices,
-enabling each test in turn by removing the early return line. If you think of
+uncommenting each test in turn after the previous step is done. If you think of
 something else which needs testing as you go or a feature you'd like to write,
 feel free to write more tests.
 
-Enable the first test, run it to see it fail, write just enough code to make it pass,
+Uncomment the first test, run it to see it fail, write just enough code to make it pass,
 then check to see if you need to refactor your code, refactor to pass again, then
-enable the next test and repeat.
+uncomment the next test and repeat.
 
 Remember: Don't write code unless your tests fail,
 don't refactor or write tests unless your existing tests pass.
