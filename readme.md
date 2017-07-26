@@ -1,5 +1,15 @@
 # Lesson 1 - FizzBuzz
 
+## Getting started
+
+This project requires PHP and [composer](https://getcomposer.org/download/).
+
+* Clone the repo with `git clone git@github.com:tom-kitchin/lesson-1-fizzbuzz.git`
+* Set up the project with `composer install` (or if composer isn't in your path, `php composer.phar install`)
+* Run the tests with `bin/phpspec run`
+
+## Completing the lesson
+
 A simple coding task with provided tests to fulfil.
 
 Each test has been commented out to disable it at first.
@@ -16,7 +26,7 @@ uncomment the next test and repeat.
 Remember: Don't write code unless your tests fail,
 don't refactor or write tests unless your existing tests pass.
 
-# FizzBuzz spec
+## FizzBuzz spec
 
 FizzBuzz counts from 1 to a given value, printing the current value unless
 it divides by 3, in which case it prints Fizz, or it divides by 5, in which case
