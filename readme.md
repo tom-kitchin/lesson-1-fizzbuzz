@@ -34,5 +34,5 @@ it prints Buzz. If it divides by both, it prints both.
 
 This spec assumes an object called FizzBuzz which provides public methods as follows:
 
-`for($index)`, which returns as a string the FizzBuzz value at that index.
-`to($count)`, which returns an array of strings of the FizzBuzz count from 1 to the given value, inclusive.
+* `for($index)`, which returns as a string the FizzBuzz value at that index.
+* `to($count)`, which returns an array of strings of the FizzBuzz count from 1 to the given value, inclusive.
